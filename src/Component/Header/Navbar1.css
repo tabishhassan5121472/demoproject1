@@ -1,0 +1,24 @@
+.Navbar {
+    padding-left: 15%;
+    padding-right: 20%;
+}
+
+.Navbar-Header {
+    padding-left: 75%;
+    padding-right: 20%;
+    width: auto;
+    height: 6ch;
+    font-weight: 710;
+    font-size: smaller;
+}
+
+img {
+    height: 15px;
+    width: 30px;
+}
+
+.div {
+    width: auto;
+    height: 100pxx;
+    background-color: rgb(255, 154, 22);
+}
